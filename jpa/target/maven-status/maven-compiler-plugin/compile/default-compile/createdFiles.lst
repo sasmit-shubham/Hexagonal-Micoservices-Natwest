@@ -1,0 +1,6 @@
+org\penta\work\jpa\config\JpaConfig.class
+org\penta\work\jpa\repository\ItemRepository.class
+org\penta\work\jpa\utils\DataUtil.class
+org\penta\work\jpa\read\CatalogueReadService.class
+org\penta\work\jpa\entity\ItemEntity.class
+org\penta\work\jpa\write\CatalogueWriteService.class
